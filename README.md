@@ -1,0 +1,4 @@
+foldergit
+=========
+
+primeira pasta
